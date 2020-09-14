@@ -10,7 +10,9 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
 
+    Right
 
 
 Indices and tables
