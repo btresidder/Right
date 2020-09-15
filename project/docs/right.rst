@@ -20,5 +20,8 @@ here is a link to rtdTest's Stable intro page:
 here is a link to the rtd testfile page:
 :doc:`Test File <rtdLatest:testfile>`
 
-here is a link to the factorial documenation on the rtdTest testfile page:
+here is a link to the factorial documenation on the rtdTest testfile page (label):
 :doc:`Factorail Link <rtdLatest:factorial-label>`
+
+here is a link to the factorial documenation on the rtdTest testfile page (main):
+:doc:`Factorial Link <rtdLatest:factorial-main>`
