@@ -25,3 +25,6 @@ here is a link to the factorial documenation on the rtdTest testfile page (label
 
 here is a link to the factorial documenation on the rtdTest testfile page (main):
 :ref:`Factorial Link <rtdLatest:factorial-main>`
+
+here is a link to the factorial documentation on the rtdTest testfile page (auto):
+:ref:`rtdLatest:factorial-main`
