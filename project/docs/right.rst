@@ -21,7 +21,7 @@ here is a link to the rtd testfile page:
 :doc:`Test File <rtdLatest:testfile>`
 
 here is a link to the factorial documenation on the rtdTest testfile page (label):
-:any:`Factorail Link <rtdLatest:factorial-label>`
+:ref:`Factorail Link <rtdLatest:factorial-label>`
 
 here is a link to the factorial documenation on the rtdTest testfile page (main):
-:any:`Factorial Link <rtdLatest:factorial-main>`
+:ref:`Factorial Link <rtdLatest:factorial-main>`
