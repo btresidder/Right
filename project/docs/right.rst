@@ -12,7 +12,7 @@ here is a link to left's documentation page:
 :doc:`Left <left:left>`
 
 here is a link to rtdTest's Latest intro page:
-:doc:`Latest Intro <rtdlatest:intro>`
+:doc:`Latest Intro <rtdLatest:intro>`
 
 here is a link to rtdTest's Stable intro page:
 :doc:`Stable Intro <rtdStable:intro>`
