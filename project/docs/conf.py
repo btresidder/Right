@@ -244,5 +244,7 @@ texinfo_documents = [
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'http://docs.python.org/': None,
-   'left': ('https://left.readthedocs.io/en/latest/', None)
+   'left': ('https://left.readthedocs.io/en/latest/', None),
+   'rtdLatest': ('https://readthedocs-test.readthedocs.io/en/latest/', None),
+   'rtdStable': ('https://readthedocs-test.readthedocs.io/en/stable/', None)
 }
